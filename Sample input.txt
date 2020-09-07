@@ -1,0 +1,10 @@
+besiktas 12 2 3 30 5
+fenerbahce 13 2 3 39 5
+galatasaray -5 2 3 28 6
+fener -5 2 3 28 5
+kasımpasa -10 4 3 32 5
+kabatas 6 7 3 2 5
+g 5 3 3 30 5
+h 13 9 3 30 3
+i 12 2 3 30 5
+j 12 2 3 30 5
